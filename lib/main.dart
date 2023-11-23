@@ -220,7 +220,7 @@ dynamic integration(n, fx,xVal) {
 
     return mySum;
   } else {
-    return 'Not Even';
+    return -1;
   }
 }
 
