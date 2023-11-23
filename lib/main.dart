@@ -107,7 +107,7 @@ class _MyAppState extends State<MyApp> {
                         double.parse(val[0]), xVal[i]));
 
                     if (i == n) {
-                      xVal[i] = double.parse(xVal[i].ceil().toString());
+                      xVal[i] = double.parse(xVal[i].round().toString());
                       fx[i] = myFunction(double.parse(val[1][1]),
                           double.parse(val[0]), xVal[i]);
 
