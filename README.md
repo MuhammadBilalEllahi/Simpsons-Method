@@ -1,16 +1,4 @@
-# simpsons
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Simpsons Method Numerical Computing
+<img width="400" height="800" alt="Screenshot 2023-11-23 at 9 03 20 PM" src="https://github.com/MuhammadBilalEllahi/Simpsons-Method/assets/67937279/685e0b5c-ba98-4211-bec1-a4eb1701831a">
+<img width="400" height="800" alt="Screenshot 2023-11-23 at 9 25 10 PM" src="https://github.com/MuhammadBilalEllahi/Simpsons-Method/assets/67937279/9e620a94-b92f-432b-9c7b-46adf78f8400">
+<img width="800" height="800" alt="Screenshot 2023-11-23 at 9 28 20 PM" src="https://github.com/MuhammadBilalEllahi/Simpsons-Method/assets/67937279/71004c22-4f39-42ae-a599-6327e318cebc">
